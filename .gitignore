@@ -1,0 +1,4 @@
+data/hotpot_embeddings.npy
+data/chroma_db
+config.bat
+node_modules
